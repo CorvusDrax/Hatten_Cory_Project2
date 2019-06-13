@@ -85,7 +85,7 @@ div#leftarrow{
 div#carocelimg{
   display: grid;
   align-items: flex-end;
-  background: url('https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/64373428_2291343451139527_2699811322664583168_o.jpg?_nc_cat=110&_nc_oc=AQkCXyQ9UZuMUbKE9kStIpqV8VvZxnwKUUVVkubd07e8LHKlyfVRJp05O5H2WqH3czE&_nc_ht=scontent-sea1-1.xx&oh=03158f03dc9ddad993bff070e059b3b8&oe=5D8B2C4D');
+  background: url('../assets/Xyah.jpg');
   background-size: cover;
   height: 100%;
 }
